@@ -1,0 +1,39 @@
+#a1{
+    height:25%;
+}
+#a2{
+   margin-left:14%;
+   height:24%;
+}
+#a3{
+  float: right;
+  height:25%;
+}
+#a4{
+    height:50%;
+}
+#a5{
+   margin-left:9%;
+   height:24%;
+}
+#a6{
+  float: right;
+  height:24%;
+}
+
+ h1{
+    text-align: center;
+    
+    background-image: linear-gradient(rgb(240, 10, 10),rgb(0, 242, 255),rgb(16, 222, 16));
+   
+    
+ }
+
+.good{
+    font-size: 100%;
+}
+html{
+    margin: 3%;
+    padding: 0.5%;
+    border:3px solid black;
+}

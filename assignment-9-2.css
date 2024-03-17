@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+  
+   
+}
+.child{
+    text-align: center;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+position: relative;
+margin-top:49px;
+padding: 20px;
+height:450px;
+width:20rem;
+background-color: darkorange;
+border-radius: 12px;
+}
+.c{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.a {
+    width:60px;
+    height:60px;
+    position: absolute;
+    bottom:-30px;
+    right:100px;
+}
+.b{
+    width:40px;
+    height:40px; 
+    position: absolute;
+    top:-16px;
+    right:2px;
+  
+    
+}

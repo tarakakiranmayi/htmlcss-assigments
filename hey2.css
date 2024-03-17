@@ -1,0 +1,35 @@
+h1{
+    color:var(--my-color);
+    text-align: center;
+}
+h1:hover{
+    color:coral;
+    font-size: d30px;
+}
+:root{
+    --my-color:#cd6815 ;
+    --green:#436953;
+}
+ul{
+    font-size: 30px;
+    list-style-type:square;
+    color:var(--green);
+    text-align: centre;
+    list-style-position: inside;
+
+    list-style-image: url('..//kiranhtml/leafpictureforlist.jpg');
+}
+span{
+    color:darkgreen;
+}
+a{
+    color:blueviolet;
+}
+a:visited{
+    color:aqua;
+}
+a:hover{
+    font-size:40px;}
+    a:active{
+        color:chocolate;
+    }

@@ -1,0 +1,43 @@
+form{
+    width:20rem;
+    margin: auto;
+    padding:20px;
+    border: 2px solid;
+    background-color: bisque;
+}
+h1{
+    color:chartreuse;
+    font-size: 5rem;
+    text-align: center;
+}
+label{
+  font-size: 1.3rem;
+}
+input,select,textarea{
+    width:100%;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+input[type='checkbox'],input[type='radio']{
+    width:15px
+
+}
+.inp-field{
+    margin-bottom: 15px;
+}
+button{
+    font-size: 1.7rem;
+    background-color: red;
+    padding: 2px;
+    border: none;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+}
+textarea{
+   height: 3rem;
+}
+button:hover{
+    background-color: red;
+    
+}

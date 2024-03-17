@@ -1,0 +1,40 @@
+.good1{
+    gap:20px;
+}
+.good{
+    font-size:12px;
+}
+h2{
+    font-size:2px;
+}
+.p-3{
+    border-radius: 12px;
+}
+ul{
+    list-style: none;
+    font-size:14px;
+    margin-top:19px;
+    
+}
+img{
+    border-radius: 50%;
+    width:80px;
+  height: 80px;
+}
+.child11{
+    display: flex;
+  margin-top: 12px;
+    width:9rem;
+    align-items: center;
+    height:7rem;
+
+}
+.child2{
+    display: flex;
+    margin-top:22px;
+    flex-direction: column;
+    gap:12px;
+}
+.child2 h2{
+ font-size: 18px;
+}

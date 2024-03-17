@@ -1,0 +1,21 @@
+#heading1{
+    color:rgb(14, 127, 239,1);
+}
+#he2{
+    color:	#f44336;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 40px;
+    font-size: 50px;
+    text-shadow: 2px 2px 3px red;
+    font-family: 'Roboto', sans-serif;
+}
+.hu{
+    color:tan
+}
+p{
+    line-height:50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}

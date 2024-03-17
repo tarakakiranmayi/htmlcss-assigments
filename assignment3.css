@@ -1,0 +1,32 @@
+h1{
+ text-align: center;
+ color:black;
+
+}
+div{
+    text-align: center;
+}   
+hr{
+    background-color:skyblue;
+  
+   
+    height:2px;
+}
+body{
+    background-color: #ff6666;
+    margin-left:200px;
+    margin-right:200px;
+}
+.hey{
+    color:#323a15;
+}
+#gy{
+    font-style: italic;
+   
+}
+h1{
+    color:#19db69;
+}
+#good{
+    font-size: 20px;
+}
